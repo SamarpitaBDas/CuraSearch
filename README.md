@@ -23,18 +23,14 @@ CuraSearch is a personalized health information aggregator that automatically cr
 1. Clone the repository:
    ```bash
    git clone https://github.com/yourusername/curasearch.git
-Navigate into the project directory:
+2. Navigate into the project directory:
   ```bash
       cd curasearch
-2.Install the dependencies:
-bash
-Copy code
-npm install
-Running the Application
-For the web application:
-
-bash
-Copy code
+3. Install the dependencies:
+      ```bash
+         npm install
+4. Running the Application
+      ```bash
 npm start
 For the mobile application (if using React Native):
 
