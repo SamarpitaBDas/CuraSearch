@@ -22,7 +22,7 @@ CuraSearch is a personalized health information aggregator that automatically cr
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/curasearch.git
+      git clone https://github.com/yourusername/curasearch.git
    ```
 2. Navigate into the project directory:
   ```bash
@@ -40,9 +40,8 @@ CuraSearch is a personalized health information aggregator that automatically cr
 For the mobile application (if using React Native):
 
 ```bash
-Copy code
-npx react-native run-android  # For Android
-npx react-native run-ios      # For iOS
+         npx react-native run-android  # For Android
+         npx react-native run-ios      # For iOS
 ```
 ## Usage
 1. Create an account or log in to your existing profile.
