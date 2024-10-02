@@ -23,42 +23,44 @@ CuraSearch is a personalized health information aggregator that automatically cr
 1. Clone the repository:
    ```bash
    git clone https://github.com/yourusername/curasearch.git
+   ```
 2. Navigate into the project directory:
   ```bash
       cd curasearch
+   ```
 3. Install the dependencies:
       ```bash
          npm install
+      ```
 4. Running the Application
       ```bash
-npm start
+         npm start
+      ```
+
 For the mobile application (if using React Native):
 
-bash
+```bash
 Copy code
 npx react-native run-android  # For Android
 npx react-native run-ios      # For iOS
-Usage
-Create an account or log in to your existing profile.
-Set up your health interests or conditions in your profile settings.
-Explore the curated health information tailored to your preferences.
-Provide feedback on the information you receive to help improve content quality.
-Contributing
+```
+## Usage
+1. Create an account or log in to your existing profile.
+2. Set up your health interests or conditions in your profile settings.
+3. Explore the curated health information tailored to your preferences.
+4. Provide feedback on the information you receive to help improve content quality.
+
+## Contributing
 We welcome contributions to CuraSearch! Please follow these steps:
 
-Fork the repository.
-Create a new branch for your feature or bug fix.
-Make your changes and commit them.
-Push to your branch and submit a pull request.
-License
+1. Fork the repository.
+2. Create a new branch for your feature or bug fix.
+3. Make your changes and commit them.
+4. Push to your branch and submit a pull request.
+## License
 This project is licensed under the MIT License. See the LICENSE file for details.
 
-Contact
-For questions or feedback, please reach out to your.email@example.com.
 
 Thank you for using CuraSearch!
-
-css
-Copy code
 
 Feel free to customize any sections to better fit your project specifics or team preferences!
